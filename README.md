@@ -18,7 +18,6 @@ git clone --recurse-submodules git@github.com:vuongkienthanh/nvim-configs-linux.
 ### Update
 ```sh
 git pull --recurse-submodules
-
 ```
 
 # More packages for specific languages
