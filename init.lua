@@ -1,7 +1,7 @@
 require("general")
 require("keymaps")
 
-vim.g.python3_host_prog = "python3"
+vim.g.python3_host_prog = "/usr/bin/python3"
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
 print(lazypath)
